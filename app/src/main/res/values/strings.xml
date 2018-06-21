@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Plant-Watering-System</string>
+    <string name="last_ping">Last Reachable :</string>
+    <string name="last_ping_value">0000:00:00 XX:XX</string>
+    <string name="last_watered">Last Watered :</string>
+    <string name="last_watered_value">0000:00:00 XX:XX</string>
+    <string name="duration">Duration (in seconds) :</string>
+    <string name="start">Start</string>
+    <string name="defaultTime">10</string>
+    <string name="pending_actions">Pending</string>
+    <string name="history">History</string>
+</resources>
